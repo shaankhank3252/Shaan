@@ -1,13 +1,13 @@
 {
-  "BOTNAME": "SARDAR RDX",
-  "BOTNICK": "{ . } × SARDAR RDX",
+  "BOTNAME": "™★𝐁𝐎𝐓 𝐉𝐀𝐍𝐔 2.1",
+  "BOTNICK": "{ . } × SHAAN KHAN",
   "PREFIX": ".",
   "ADMINBOT": [
-    "100009012838085",
-    "61582076572381",
-    "100065216344877"
+    "100016828397863",
+    "100016828397863",
+    "100016828397863"
   ],
-  "REACT_DELETE_EMOJI": "😡",
+  "REACT_DELETE_EMOJI": "❤️",
   "PREFIX_ENABLED": true,
   "ADMIN_ONLY_MODE": false,
   "AUTO_ISLAMIC_POST": true,
